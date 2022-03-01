@@ -1,0 +1,12 @@
+{
+  "name": "base-bot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/facalz/base-bot",
+  "author": "Facal <facaldev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security"
+  }
+}
